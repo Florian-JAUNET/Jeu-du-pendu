@@ -1,0 +1,5 @@
+﻿L'opération de génération a démarré...
+1>------ Début de la génération : Projet : MonPremierProgramme, Configuration : Debug Any CPU ------
+1>  MonPremierProgramme -> C:\Users\Florian\Documents\MonPremierProgramme\bin\Debug\MonPremierProgramme.exe
+========== Build : 1 réussite(s), 0 échec(s), 0 à jour, 0 ignorée(s) ==========
+========== 00:00,429 écoulé ==========
